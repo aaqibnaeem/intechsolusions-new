@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Divider, HStack, Stack, Text, VStack } from "@chakra-ui/react";
+import { Box, Divider, HStack, Stack, Text } from "@chakra-ui/react";
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 
