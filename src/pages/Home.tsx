@@ -25,11 +25,11 @@ const Home: React.FC = () => {
         alignItems="center"
         pb={10}
       >
-        <VStack w="100%" textAlign="center" mb={20}>
+        <VStack w="100%" textAlign="center">
           <Text fontSize="5rem" fontWeight="500" lineHeight="90px" mb={2}>
             All accounting <br /> in one application.
           </Text>
-          <VStack w="37%">
+          <VStack w="40%">
             <Text textAlign="justify">
               InTech Solusions provides you a complete range of database
               management software with its unmatched combination of flexibility,
@@ -37,7 +37,7 @@ const Home: React.FC = () => {
             </Text>
           </VStack>
         </VStack>
-        <Stack w="100%">
+        <Stack w="100%" mt={2}>
           <Grid
             px={10}
             h="400px"

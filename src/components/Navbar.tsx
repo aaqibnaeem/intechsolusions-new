@@ -10,14 +10,7 @@ const Navbar: React.FC = () => {
         paddingBottom: "8px",
       }}
     >
-      <div
-      // style={{
-      //   // background: "white",
-      //   // padding: "4px 6px",
-      //   // width: "200px",
-      //   // borderRadius: 100,
-      // }}
-      >
+      <div>
         <p
           style={{
             color: "white",
