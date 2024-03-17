@@ -2,13 +2,10 @@ import React from "react";
 import {
   Box,
   Button,
-  Card,
-  CardBody,
   Divider,
   Grid,
   GridItem,
   HStack,
-  Heading,
   Input,
   ListItem,
   Stack,
