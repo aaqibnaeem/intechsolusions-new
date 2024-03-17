@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           All accounting <br /> in one application.
         </Text>
         <VStack w="40%">
-          <Text textAlign="justify">
+          <Text textAlign="center">
             InTech Solusions provides you a complete range of database
             management software with its unmatched combination of flexibility,
             usability, and productivity.
